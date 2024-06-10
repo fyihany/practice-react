@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7e3346f.css",
-    "main.js": "/static/js/main.915359da.js",
-    "static/media/movie1.png": "/static/media/movie1.fa22a1530b9745e59e66.png",
-    "static/media/movie2.png": "/static/media/movie2.f9cadad45fadbea7a7ca.png",
-    "static/media/movie3.png": "/static/media/movie3.a25d389eccd04a1c6f92.png",
-    "static/media/movie4.png": "/static/media/movie4.14275376e76aba67161d.png",
-    "index.html": "/index.html",
-    "main.c7e3346f.css.map": "/static/css/main.c7e3346f.css.map",
-    "main.915359da.js.map": "/static/js/main.915359da.js.map"
+    "main.css": "/practice-react/static/css/main.c7e3346f.css",
+    "main.js": "/practice-react/static/js/main.f30870d9.js",
+    "static/media/movie1.png": "/practice-react/static/media/movie1.fa22a1530b9745e59e66.png",
+    "static/media/movie2.png": "/practice-react/static/media/movie2.f9cadad45fadbea7a7ca.png",
+    "static/media/movie3.png": "/practice-react/static/media/movie3.a25d389eccd04a1c6f92.png",
+    "static/media/movie4.png": "/practice-react/static/media/movie4.14275376e76aba67161d.png",
+    "index.html": "/practice-react/index.html",
+    "main.c7e3346f.css.map": "/practice-react/static/css/main.c7e3346f.css.map",
+    "main.f30870d9.js.map": "/practice-react/static/js/main.f30870d9.js.map"
   },
   "entrypoints": [
     "static/css/main.c7e3346f.css",
-    "static/js/main.915359da.js"
+    "static/js/main.f30870d9.js"
   ]
 }
